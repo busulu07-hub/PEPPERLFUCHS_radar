@@ -19,3 +19,4 @@ Thumbs.db
 
 # Exclude the WIP package
 src/sncf_radar_rpdo_adapter/
+src/ros2_canopen/
