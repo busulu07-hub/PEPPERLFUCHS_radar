@@ -29,13 +29,13 @@ vcs import src < canopen_ws.repos
 source /opt/ros/$ROS_DISTRO/setup.bash  
 colcon build --symlink-install  
 
-#In one terminal in /canopen_ws  
+# In one terminal in /canopen_ws  
 source install/setup.bash  
-sudo bash -lc 'source /opt/ros/humble/setup.bash; \
-               source /home/sncf/canopen_ws/install/setup.bash; \
+sudo bash -lc 'source /opt/ros/humble/setup.bash; \  
+               source /home/sncf/canopen_ws/install/setup.bash; \  
                ROS_LOG_LEVEL=DEBUG ros2 launch canopen_config pfr.launch.py'  
 Then run again with only ros2 launch canopen_config pfr.launch.py  
-#In another terminal  
+# In another terminal  
 ros2 service call /pepperl/proxy_device_1/nmt_start_node std_srvs/srv/Trigger {}  
 ros2 topic echo /pepperl/proxy_device_1/rpdo  
 
