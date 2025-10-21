@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/sncf_radar_rpdo_adapter/sncf_radar_rpdo_adapter.compdef.aird" element2="/sncf_radar_rpdo_adapter/sncf_radar_rpdo_adapter.compdef.di" element3="/sncf_radar_rpdo_adapter/sncf_radar_rpdo_adapter.compdef.notation" element4="/sncf_radar_rpdo_adapter/sncf_radar_rpdo_adapter.compdef.uml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1761047112844"/>
+</session>

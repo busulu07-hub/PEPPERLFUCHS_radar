@@ -1,0 +1,21 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+.colcon*
+CTestTestfile.cmake
+Testing/
+
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Exclude the WIP package
+src/sncf_radar_rpdo_adapter/

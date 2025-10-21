@@ -1,0 +1,19 @@
+!SESSION 2025-10-21 13:27:15.294 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.8
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-10-21 13:27:17.625
+!MESSAGE Both 'org.eclipse.papyrus.designer.languages.python.profile' and 'org.eclipse.papyrus.designer.languages.python.profile' register a package for 'http://www.eclipse.org/papyrus/python/1'
+
+!ENTRY org.eclipse.sirius 1 0 2025-10-21 13:44:05.171
+!MESSAGE Migration done on /sncf_radar_rpdo_adapter/sncf_radar_rpdo_adapter.compdef.aird for "xmi:id to uid serialization conversion" (the result of this migration will be saved on the next session save): 
+ - the new "uid" attributes of Sirius model elements have been initialized from the values of the previously used "xmi:id".
+ - the "uid" of DDiagram/DTable/DTree are kept and now used as their URI fragment. For exemple the "element" attribute of GMF Notation Diagram now corresponds to the uid of the referenced DDiagram instead its previous "xmi:id".
+
+!ENTRY org.eclipse.sirius 1 0 2025-10-21 13:49:42.307
+!MESSAGE Migration done on /sncf_radar_rpdo_adapter/src/src.compdef.aird for "xmi:id to uid serialization conversion" (the result of this migration will be saved on the next session save): 
+ - the new "uid" attributes of Sirius model elements have been initialized from the values of the previously used "xmi:id".
+ - the "uid" of DDiagram/DTable/DTree are kept and now used as their URI fragment. For exemple the "element" attribute of GMF Notation Diagram now corresponds to the uid of the referenced DDiagram instead its previous "xmi:id".

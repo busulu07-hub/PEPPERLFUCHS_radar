@@ -1,0 +1,56 @@
+options:
+  dcf_path: "@BUS_CONFIG_PATH@"
+
+master:
+  node_id: 1
+  driver: "ros2_canopen::MasterDriver"
+  package: "canopen_master_driver"
+  baudrate: 250
+  namespace: "/pepperl"
+  start_nodes: true
+
+proxy_device_1:
+  node_id: 16
+  driver: "ros2_canopen::ProxyDriver"
+  package: "canopen_proxy_driver"
+  dcf: "radar_sensor_can_2024_06_06.eds"
+  sdo_timeout_ms: 500
+  boot_timeout_ms: 20000
+  namespace: "/pepperl"
+  boot: false
+  polling: true
+  # verify_identity: false 
+
+  # sdo:
+  #   # Disable identity verification: 0 means "don’t enforce"
+  #   - { index: 0x1F85, subindex: 1, data: 0x00000000 }  # Vendor-ID
+  #   - { index: 0x1F85, subindex: 2, data: 0x00000000 }  # Product code
+  #   - { index: 0x1F85, subindex: 3, data: 0x00000000 }  # Revision
+  #   - { index: 0x1F85, subindex: 4, data: 0x00000000 }  # Serial number (if present)
+
+  # # Add these settings for changing PDO mapping configuration
+  # sdo:
+  #   - {index: 0x1800, subindex: 1, data: 0x80000190}  # Step 1: Disable TPDO1
+  #   - {index: 0x1A00, subindex: 0, data: 0}          # Step 2: Clear current mapping
+  #   - {index: 0x1A00, subindex: 1, data: 0x20000110} # Step 3: Distance LSB
+  #   - {index: 0x1A00, subindex: 2, data: 0x20000210} # Distance MSB
+  #   - {index: 0x1A00, subindex: 3, data: 0x20000508} # Signal Quality
+  #   - {index: 0x1A00, subindex: 4, data: 0x20000608} # 8-bit Counter
+  #   - {index: 0x1A00, subindex: 0, data: 4}          # Step 4: Set number of objects
+  #   - {index: 0x1800, subindex: 1, data: 0x00000190} # Step 5: Re-enable TPDO1
+
+  # # PDO configuration: It's how ros2_canopen receives the data
+  # tpdo:
+  #   1:
+  #     enabled: true
+  #     cob_id: 0x180  # Base ID; actual ID = 0x180 + node_id (16)
+  #     transmission: 255  # Event-driven
+  #     inhibit_time: 0
+  #     event_timer: 0
+  #     mappings:
+  #       - {index: 0x2000, subindex: 1, type: "uint16", name: "distance_lsb"}
+  #       - {index: 0x2000, subindex: 2, type: "uint16", name: "distance_msb"}
+  #       - {index: 0x2000, subindex: 3, type: "uint16", name: "velocity_lsb"}
+  #       - {index: 0x2000, subindex: 4, type: "uint16", name: "velocity_msb"}
+  #       - {index: 0x2000, subindex: 5, type: "uint8", name: "signal_quality"}
+  #       - {index: 0x2000, subindex: 6, type: "uint8", name: "counter"}
