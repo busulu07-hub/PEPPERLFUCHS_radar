@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmi:id="_zHyhYK82EfCh8-Kh2KWRzw" type="CompositeStructure" name="Pf_radar_adapter diagram" measurementUnit="Pixel">
+  <children xsi:type="notation:Shape" xmi:id="_zHyhYa82EfCh8-Kh2KWRzw" type="Class_Shape">
+    <children xsi:type="notation:DecorationNode" xmi:id="_zHyhYq82EfCh8-Kh2KWRzw" type="Class_NameLabel"/>
+    <children xsi:type="notation:DecorationNode" xmi:id="_zHyhY682EfCh8-Kh2KWRzw" type="Class_FloatingNameLabel">
+      <layoutConstraint xsi:type="notation:Location" xmi:id="_zHyhZK82EfCh8-Kh2KWRzw" y="15"/>
+    </children>
+    <children xsi:type="notation:BasicCompartment" xmi:id="_zHyhZa82EfCh8-Kh2KWRzw" type="Class_StructureCompartment">
+      <children xsi:type="notation:Shape" xmi:id="_zHyhZq82EfCh8-Kh2KWRzw" type="Class_Shape_CN">
+        <children xsi:type="notation:DecorationNode" xmi:id="_zHyhZ682EfCh8-Kh2KWRzw" type="Class_NameLabel_CN"/>
+        <children xsi:type="notation:DecorationNode" xmi:id="_zHyhaK82EfCh8-Kh2KWRzw" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_zHyhaa82EfCh8-Kh2KWRzw" y="15"/>
+        </children>
+        <children xsi:type="notation:BasicCompartment" xmi:id="_zHyhaq82EfCh8-Kh2KWRzw" type="Class_StructureCompartment_CN">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_zHyha682EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhbK82EfCh8-Kh2KWRzw"/>
+        </children>
+        <element href="pf_radar_adapter.compdef.uml#_zHqllK82EfCh8-Kh2KWRzw"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhba82EfCh8-Kh2KWRzw" x="194" y="80" width="101" height="81"/>
+      </children>
+      <children xsi:type="notation:Shape" xmi:id="_zHyhbq82EfCh8-Kh2KWRzw" type="StereotypeComment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_zHyhb682EfCh8-Kh2KWRzw"/>
+        <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhcK82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+          <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqllK82EfCh8-Kh2KWRzw"/>
+        </styles>
+        <element xsi:nil="true"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhca82EfCh8-Kh2KWRzw" x="394" y="80"/>
+      </children>
+      <styles xsi:type="notation:TitleStyle" xmi:id="_zHyhcq82EfCh8-Kh2KWRzw"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhc682EfCh8-Kh2KWRzw"/>
+    </children>
+    <element href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhdK82EfCh8-Kh2KWRzw" x="100" y="60" width="601" height="321"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_zHyhda82EfCh8-Kh2KWRzw" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_zHyhdq82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhd682EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyheK82EfCh8-Kh2KWRzw" x="420" y="100"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_zHyhea82EfCh8-Kh2KWRzw" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_zHyheq82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhe682EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhfK82EfCh8-Kh2KWRzw" x="300" y="60"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_zHyhfa82EfCh8-Kh2KWRzw" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_zHyhfq82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhf682EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_zHyhgK82EfCh8-Kh2KWRzw" x="300" y="60"/>
+  </children>
+  <styles xsi:type="notation:StringValueStyle" xmi:id="_zHyhga82EfCh8-Kh2KWRzw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_zHyhgq82EfCh8-Kh2KWRzw"/>
+  <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_zHyhg682EfCh8-Kh2KWRzw" diagramKindId="org.eclipse.papyrus.robotics.diagram.component">
+    <owner href="pf_radar_adapter.compdef.uml#_zHqlkK82EfCh8-Kh2KWRzw"/>
+  </styles>
+  <element href="pf_radar_adapter.compdef.uml#_zHqlkK82EfCh8-Kh2KWRzw"/>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhhK82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhYa82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyhha82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhhq82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhh682EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhiK82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhia82EfCh8-Kh2KWRzw"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhiq82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhYa82EfCh8-Kh2KWRzw" target="_zHyhda82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyhi682EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhjK82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhja82EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhjq82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhj682EfCh8-Kh2KWRzw"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhkK82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhZq82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyhka82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhkq82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqllK82EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhk682EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhlK82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhla82EfCh8-Kh2KWRzw"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhlq82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhYa82EfCh8-Kh2KWRzw" target="_zHyhea82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyhl682EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhmK82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhma82EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhmq82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhm682EfCh8-Kh2KWRzw"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhnK82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhYa82EfCh8-Kh2KWRzw" target="_zHyhfa82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyhna82EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhnq82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqlk682EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhn682EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhoK82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhoa82EfCh8-Kh2KWRzw"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_zHyhoq82EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_zHyhZq82EfCh8-Kh2KWRzw" target="_zHyhbq82EfCh8-Kh2KWRzw">
+    <styles xsi:type="notation:FontStyle" xmi:id="_zHyho682EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_zHyhpK82EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+      <eObjectValue href="pf_radar_adapter.compdef.uml#_zHqllK82EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_zHyhpa82EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhpq82EfCh8-Kh2KWRzw"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_zHyhp682EfCh8-Kh2KWRzw"/>
+  </edges>
+</notation:Diagram>

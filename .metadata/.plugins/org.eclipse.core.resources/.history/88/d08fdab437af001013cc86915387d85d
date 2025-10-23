@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_BNVfwK83EfCh8-Kh2KWRzw" type="PapyrusUMLClassDiagram" name="Pf_radar_interfacesSVCs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_BNVfwa83EfCh8-Kh2KWRzw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_BNVfwq83EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_BNVfw683EfCh8-Kh2KWRzw" diagramKindId="org.eclipse.papyrus.robotics.diagram.service">
+      <owner href="pf_radar_interfaces.servicedef.uml#_BNQAMq83EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element href="pf_radar_interfaces.servicedef.uml#_BNQAMq83EfCh8-Kh2KWRzw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_BNVfxK83EfCh8-Kh2KWRzw" type="PapyrusUMLClassDiagram" name="Pf_radar_interfacesDTs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_BNVfxa83EfCh8-Kh2KWRzw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_BNVfxq83EfCh8-Kh2KWRzw"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_BNVfx683EfCh8-Kh2KWRzw" diagramKindId="org.eclipse.papyrus.robotics.diagram.data">
+      <owner href="pf_radar_interfaces.servicedef.uml#_BNQAM683EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element href="pf_radar_interfaces.servicedef.uml#_BNQAM683EfCh8-Kh2KWRzw"/>
+  </notation:Diagram>
+</xmi:XMI>

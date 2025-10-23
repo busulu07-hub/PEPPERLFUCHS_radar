@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history_mc_DataType">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/pf_radar_interfaces/models/services/pf_radar_interfaces.servicedef.uml#_H5f1wK83EfCh8-Kh2KWRzw"/>
+				<item value="platform:/resource/sncf_radar_rpdo_adapter/%20msg_definitions/my_msgs.servicedef.uml#_wsJuwK8dEfCKarBJGpTXOA"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/pf_radar_interfaces/models/services/pf_radar_interfaces.servicedef.uml:uml:Type:type">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="pathmap://ROS2_LIB_BASE/services/std_msgs.servicedef.uml#ID_msg_Header"/>
+			</list>
+		</section>
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/pf_radar_adapter/models/components/pf_radar_adapter.compdef.uml:uml:Interface:required">
+	</section>
+	<section name="org.eclipse.papyrus.infra.ui.emf.providers.EMFGraphicalContentProvider_history__platform:/resource/pf_radar_adapter/models/components/pf_radar_adapter.compdef.uml:uml:Interface:provided">
+		<section name="History">
+			<list key="PreviousSelection">
+				<item value="platform:/resource/pf_radar_interfaces/models/services/pf_radar_interfaces.servicedef.uml#_ACDi8K84EfCh8-Kh2KWRzw"/>
+			</list>
+		</section>
+	</section>
+</section>

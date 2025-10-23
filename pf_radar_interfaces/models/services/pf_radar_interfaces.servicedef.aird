@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" uid="_BMwQ8K83EfCh8-Kh2KWRzw" version="15.4.1.202403191723">
+  <semanticResources>pathmap://ROS2_LIBRARY/ros2.primitive.uml</semanticResources>
+  <semanticResources>pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml</semanticResources>
+  <semanticResources>pathmap://UML_PROFILES/Ecore.profile.uml</semanticResources>
+  <semanticResources>pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml</semanticResources>
+  <semanticResources>pathmap://UML_PROFILES/Standard.profile.uml</semanticResources>
+  <semanticResources>pathmap://UML_METAMODELS/UML.metamodel.uml</semanticResources>
+  <semanticResources>pathmap://UML_METAMODELS/Ecore.metamodel.uml</semanticResources>
+  <semanticResources>pathmap://ROBOTICS_LIBRARIES/robotics.library.uml</semanticResources>
+  <semanticResources>pathmap://Papyrus_PROFILES/MARTE_Library.library.uml</semanticResources>
+  <semanticResources>pathmap://Papyrus_PROFILES/MARTE.profile.uml</semanticResources>
+  <semanticResources>pathmap://ROBOTICS_PROFILES/robotics.profile.uml</semanticResources>
+  <semanticResources>pathmap://ROBOTICS_BPC_PROFILES/bpc.profile.uml</semanticResources>
+  <semanticResources>pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_PROFILES/C_Cpp.profile.uml</semanticResources>
+  <semanticResources>pathmap://Codegen_PROFILES/Codegen.profile.uml</semanticResources>
+  <semanticResources>pathmap://PapyrusPython_PROFILES/python.profile.uml</semanticResources>
+  <semanticResources>pathmap://ROS2_LIBRARY/ros2.primitive.di</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_PROFILES/C_Cpp.profile.notation</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_PROFILES/C_Cpp.profile.di</semanticResources>
+  <semanticResources>pathmap://PapyrusPython_PROFILES/python.profile.notation</semanticResources>
+  <semanticResources>pathmap://PapyrusPython_PROFILES/python.profile.di</semanticResources>
+  <semanticResources>pf_radar_interfaces.servicedef.uml</semanticResources>
+  <semanticResources>pathmap://ROS2_LIB_BASE/services/std_msgs.servicedef.uml</semanticResources>
+  <semanticResources>pathmap://ROS2_LIB_BASE/services/builtin_interfaces.servicedef.uml</semanticResources>
+</viewpoint:DAnalysis>

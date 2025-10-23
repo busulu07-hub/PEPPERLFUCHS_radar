@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_x66S0K8bEfCKarBJGpTXOA" type="PapyrusUMLClassDiagram" name="My_msgsSVCs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_x66S0a8bEfCKarBJGpTXOA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_x66S0q8bEfCKarBJGpTXOA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_x66S068bEfCKarBJGpTXOA" diagramKindId="org.eclipse.papyrus.robotics.diagram.service">
+      <owner href="my_msgs.servicedef.uml#_x64doq8bEfCKarBJGpTXOA"/>
+    </styles>
+    <element href="my_msgs.servicedef.uml#_x64doq8bEfCKarBJGpTXOA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_x66S1K8bEfCKarBJGpTXOA" type="PapyrusUMLClassDiagram" name="My_msgsDTs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_x66S1a8bEfCKarBJGpTXOA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_x66S1q8bEfCKarBJGpTXOA"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_x66S168bEfCKarBJGpTXOA" diagramKindId="org.eclipse.papyrus.robotics.diagram.data">
+      <owner href="my_msgs.servicedef.uml#_x64do68bEfCKarBJGpTXOA"/>
+    </styles>
+    <element href="my_msgs.servicedef.uml#_x64do68bEfCKarBJGpTXOA"/>
+  </notation:Diagram>
+</xmi:XMI>

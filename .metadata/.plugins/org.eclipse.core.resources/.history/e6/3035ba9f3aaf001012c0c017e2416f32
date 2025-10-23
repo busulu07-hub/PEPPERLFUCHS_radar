@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style">
+  <notation:Diagram xmi:id="_QorFAK86EfCYOY8NCiiXqg" type="PapyrusUMLClassDiagram" name="CanopeninterfacesSVCs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_QorFAa86EfCYOY8NCiiXqg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_QorFAq86EfCYOY8NCiiXqg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_QorFA686EfCYOY8NCiiXqg" diagramKindId="org.eclipse.papyrus.robotics.diagram.service">
+      <owner href="canopeninterfaces.servicedef.uml#_QopP0q86EfCYOY8NCiiXqg"/>
+    </styles>
+    <element href="canopeninterfaces.servicedef.uml#_QopP0q86EfCYOY8NCiiXqg"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_QorFBK86EfCYOY8NCiiXqg" type="PapyrusUMLClassDiagram" name="CanopeninterfacesDTs diagram" measurementUnit="Pixel">
+    <styles xsi:type="notation:StringValueStyle" xmi:id="_QorFBa86EfCYOY8NCiiXqg" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xsi:type="notation:DiagramStyle" xmi:id="_QorFBq86EfCYOY8NCiiXqg"/>
+    <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_QorFB686EfCYOY8NCiiXqg" diagramKindId="org.eclipse.papyrus.robotics.diagram.data">
+      <owner href="canopeninterfaces.servicedef.uml#_QopP0686EfCYOY8NCiiXqg"/>
+    </styles>
+    <element href="canopeninterfaces.servicedef.uml#_QopP0686EfCYOY8NCiiXqg"/>
+  </notation:Diagram>
+</xmi:XMI>

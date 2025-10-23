@@ -1,3 +1,4 @@
 eclipse.preferences.version=1
 encoding=UTF-8
+pathvariable.ROS2_SNCF_MSGS=/home/sncf/canopen_ws/src/sncf_radar_rpdo_adapter/ msg_definitions
 version=1

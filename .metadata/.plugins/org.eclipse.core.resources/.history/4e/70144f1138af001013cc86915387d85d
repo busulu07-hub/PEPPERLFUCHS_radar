@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_BNVfwK83EfCh8-Kh2KWRzw" type="PapyrusUMLClassDiagram" name="Pf_radar_interfacesSVCs diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_BNVfwa83EfCh8-Kh2KWRzw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_BNVfwq83EfCh8-Kh2KWRzw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_BNVfw683EfCh8-Kh2KWRzw" diagramKindId="org.eclipse.papyrus.robotics.diagram.service">
+      <owner xmi:type="uml:Package" href="pf_radar_interfaces.servicedef.uml#_BNQAMq83EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xmi:type="uml:Package" href="pf_radar_interfaces.servicedef.uml#_BNQAMq83EfCh8-Kh2KWRzw"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_BNVfxK83EfCh8-Kh2KWRzw" type="PapyrusUMLClassDiagram" name="Pf_radar_interfacesDTs diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_H5oYoK83EfCh8-Kh2KWRzw" type="DataType_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_H5oYoq83EfCh8-Kh2KWRzw" type="DataType_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_H5oYo683EfCh8-Kh2KWRzw" type="DataType_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_H5oYpK83EfCh8-Kh2KWRzw" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_H5oYpa83EfCh8-Kh2KWRzw" type="DataType_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_SmMpAK83EfCh8-Kh2KWRzw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="pf_radar_interfaces.servicedef.uml#_RknQMK83EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_SmMpAa83EfCh8-Kh2KWRzw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_SmNQEK83EfCh8-Kh2KWRzw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="pf_radar_interfaces.servicedef.uml#_RkqTgK83EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_SmNQEa83EfCh8-Kh2KWRzw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_SmNQEq83EfCh8-Kh2KWRzw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="pf_radar_interfaces.servicedef.uml#_RksIsa83EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_SmNQE683EfCh8-Kh2KWRzw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_SmNQFK83EfCh8-Kh2KWRzw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="pf_radar_interfaces.servicedef.uml#_Rkt94a83EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_SmNQFa83EfCh8-Kh2KWRzw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_dRwMwK83EfCh8-Kh2KWRzw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="pf_radar_interfaces.servicedef.uml#_dRiKUK83EfCh8-Kh2KWRzw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_dRwMwa83EfCh8-Kh2KWRzw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_H5oYpq83EfCh8-Kh2KWRzw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_H5oYp683EfCh8-Kh2KWRzw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_H5oYqK83EfCh8-Kh2KWRzw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H5oYqa83EfCh8-Kh2KWRzw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_H5oYqq83EfCh8-Kh2KWRzw" type="DataType_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_H5oYq683EfCh8-Kh2KWRzw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_H5oYrK83EfCh8-Kh2KWRzw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_H5oYra83EfCh8-Kh2KWRzw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H5oYrq83EfCh8-Kh2KWRzw"/>
+      </children>
+      <element xmi:type="uml:DataType" href="pf_radar_interfaces.servicedef.uml#_H5f1wK83EfCh8-Kh2KWRzw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H5oYoa83EfCh8-Kh2KWRzw" x="366" y="105"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_H5vtY683EfCh8-Kh2KWRzw" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_H5vtZK83EfCh8-Kh2KWRzw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_H5vtZq83EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:DataType" href="pf_radar_interfaces.servicedef.uml#_H5f1wK83EfCh8-Kh2KWRzw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_H5vtZa83EfCh8-Kh2KWRzw" x="200"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_BNVfxa83EfCh8-Kh2KWRzw" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_BNVfxq83EfCh8-Kh2KWRzw"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_BNVfx683EfCh8-Kh2KWRzw" diagramKindId="org.eclipse.papyrus.robotics.diagram.data">
+      <owner xmi:type="uml:Package" href="pf_radar_interfaces.servicedef.uml#_BNQAM683EfCh8-Kh2KWRzw"/>
+    </styles>
+    <element xmi:type="uml:Package" href="pf_radar_interfaces.servicedef.uml#_BNQAM683EfCh8-Kh2KWRzw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_H5vtZ683EfCh8-Kh2KWRzw" type="StereotypeCommentLink" source="_H5oYoK83EfCh8-Kh2KWRzw" target="_H5vtY683EfCh8-Kh2KWRzw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_H5vtaK83EfCh8-Kh2KWRzw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_H5vtbK83EfCh8-Kh2KWRzw" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:DataType" href="pf_radar_interfaces.servicedef.uml#_H5f1wK83EfCh8-Kh2KWRzw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_H5vtaa83EfCh8-Kh2KWRzw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H5vtaq83EfCh8-Kh2KWRzw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_H5vta683EfCh8-Kh2KWRzw"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>

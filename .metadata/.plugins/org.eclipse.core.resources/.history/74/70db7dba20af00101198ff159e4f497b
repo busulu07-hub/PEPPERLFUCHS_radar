@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_x66S0K8bEfCKarBJGpTXOA" type="PapyrusUMLClassDiagram" name="My_msgsSVCs diagram" measurementUnit="Pixel">
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_x66S0a8bEfCKarBJGpTXOA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_x66S0q8bEfCKarBJGpTXOA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_x66S068bEfCKarBJGpTXOA" diagramKindId="org.eclipse.papyrus.robotics.diagram.service">
+      <owner xmi:type="uml:Package" href="my_msgs.servicedef.uml#_x64doq8bEfCKarBJGpTXOA"/>
+    </styles>
+    <element xmi:type="uml:Package" href="my_msgs.servicedef.uml#_x64doq8bEfCKarBJGpTXOA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_x66S1K8bEfCKarBJGpTXOA" type="PapyrusUMLClassDiagram" name="My_msgsDTs diagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_wsXKIK8dEfCKarBJGpTXOA" type="DataType_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_wsXxMK8dEfCKarBJGpTXOA" type="DataType_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_wsXxMa8dEfCKarBJGpTXOA" type="DataType_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_wsXxMq8dEfCKarBJGpTXOA" y="15"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_wsXxM68dEfCKarBJGpTXOA" type="DataType_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_69Nu4K8dEfCKarBJGpTXOA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="my_msgs.servicedef.uml#_69I2YK8dEfCKarBJGpTXOA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_69Nu4a8dEfCKarBJGpTXOA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_PJGZYK8eEfCKarBJGpTXOA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="my_msgs.servicedef.uml#_PI4-AK8eEfCKarBJGpTXOA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_PJGZYa8eEfCKarBJGpTXOA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_YGnG8K8eEfCKarBJGpTXOA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="my_msgs.servicedef.uml#_YGfyMK8eEfCKarBJGpTXOA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_YGnG8a8eEfCKarBJGpTXOA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_penUkK8eEfCKarBJGpTXOA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="my_msgs.servicedef.uml#_pePhIK8eEfCKarBJGpTXOA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_penUka8eEfCKarBJGpTXOA"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_wsXxNK8dEfCKarBJGpTXOA"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_wsXxNa8dEfCKarBJGpTXOA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_wsXxNq8dEfCKarBJGpTXOA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wsXxN68dEfCKarBJGpTXOA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_wsXxOK8dEfCKarBJGpTXOA" type="DataType_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_wsXxOa8dEfCKarBJGpTXOA"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_wsXxOq8dEfCKarBJGpTXOA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_wsXxO68dEfCKarBJGpTXOA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wsXxPK8dEfCKarBJGpTXOA"/>
+      </children>
+      <element xmi:type="uml:DataType" href="my_msgs.servicedef.uml#_wsJuwK8dEfCKarBJGpTXOA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wsXKIa8dEfCKarBJGpTXOA" x="336" y="196" width="345" height="285"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_ws25c68dEfCKarBJGpTXOA" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_ws25dK8dEfCKarBJGpTXOA"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ws25dq8dEfCKarBJGpTXOA" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:DataType" href="my_msgs.servicedef.uml#_wsJuwK8dEfCKarBJGpTXOA"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ws25da8dEfCKarBJGpTXOA" x="200"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_x66S1a8bEfCKarBJGpTXOA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_x66S1q8bEfCKarBJGpTXOA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_x66S168bEfCKarBJGpTXOA" diagramKindId="org.eclipse.papyrus.robotics.diagram.data">
+      <owner xmi:type="uml:Package" href="my_msgs.servicedef.uml#_x64do68bEfCKarBJGpTXOA"/>
+    </styles>
+    <element xmi:type="uml:Package" href="my_msgs.servicedef.uml#_x64do68bEfCKarBJGpTXOA"/>
+    <edges xmi:type="notation:Connector" xmi:id="_ws25d68dEfCKarBJGpTXOA" type="StereotypeCommentLink" source="_wsXKIK8dEfCKarBJGpTXOA" target="_ws25c68dEfCKarBJGpTXOA">
+      <styles xmi:type="notation:FontStyle" xmi:id="_ws25eK8dEfCKarBJGpTXOA"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_ws3gcq8dEfCKarBJGpTXOA" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:DataType" href="my_msgs.servicedef.uml#_wsJuwK8dEfCKarBJGpTXOA"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ws25ea8dEfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ws3gcK8dEfCKarBJGpTXOA"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ws3gca8dEfCKarBJGpTXOA"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>

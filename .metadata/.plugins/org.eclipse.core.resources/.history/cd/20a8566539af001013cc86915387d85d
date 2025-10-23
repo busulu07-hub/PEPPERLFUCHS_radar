@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" uid="_zG37YK82EfCh8-Kh2KWRzw" version="15.4.1.202403191723">
+  <semanticResources>pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml</semanticResources>
+  <semanticResources>pathmap://UML_PROFILES/Ecore.profile.uml</semanticResources>
+  <semanticResources>pathmap://UML_LIBRARIES/EcorePrimitiveTypes.library.uml</semanticResources>
+  <semanticResources>pathmap://UML_PROFILES/Standard.profile.uml</semanticResources>
+  <semanticResources>pathmap://UML_METAMODELS/UML.metamodel.uml</semanticResources>
+  <semanticResources>pathmap://UML_METAMODELS/Ecore.metamodel.uml</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_LIBRARIES/AnsiCLibrary.uml</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_LIBRARIES/AnsiCLibrary.notation</semanticResources>
+  <semanticResources>pathmap://PapyrusC_Cpp_LIBRARIES/AnsiCLibrary.di</semanticResources>
+  <semanticResources>pf_radar_adapter.compdef.uml</semanticResources>
+  <semanticResources>pathmap://ROBOTICS_BPC_PROFILES/bpc.profile.uml</semanticResources>
+  <semanticResources>pathmap://ROBOTICS_PROFILES/robotics.profile.uml</semanticResources>
+  <semanticResources>pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml</semanticResources>
+</viewpoint:DAnalysis>

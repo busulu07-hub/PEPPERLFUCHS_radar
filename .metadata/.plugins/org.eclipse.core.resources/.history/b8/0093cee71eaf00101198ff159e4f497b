@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmi:id="_CBTd8K50EfCKarBJGpTXOA" type="CompositeStructure" name="Src diagram" measurementUnit="Pixel">
+  <children xsi:type="notation:Shape" xmi:id="_CBTd8a50EfCKarBJGpTXOA" type="Class_Shape">
+    <children xsi:type="notation:DecorationNode" xmi:id="_CBTd8q50EfCKarBJGpTXOA" type="Class_NameLabel"/>
+    <children xsi:type="notation:DecorationNode" xmi:id="_CBTd8650EfCKarBJGpTXOA" type="Class_FloatingNameLabel">
+      <layoutConstraint xsi:type="notation:Location" xmi:id="_CBTd9K50EfCKarBJGpTXOA" y="15"/>
+    </children>
+    <children xsi:type="notation:BasicCompartment" xmi:id="_CBTd9a50EfCKarBJGpTXOA" type="Class_StructureCompartment">
+      <children xsi:type="notation:Shape" xmi:id="_CBTd9q50EfCKarBJGpTXOA" type="Class_Shape_CN">
+        <children xsi:type="notation:DecorationNode" xmi:id="_CBTd9650EfCKarBJGpTXOA" type="Class_NameLabel_CN"/>
+        <children xsi:type="notation:DecorationNode" xmi:id="_CBTd-K50EfCKarBJGpTXOA" type="Class_FloatingNameLabel_CN">
+          <layoutConstraint xsi:type="notation:Location" xmi:id="_CBTd-a50EfCKarBJGpTXOA" y="15"/>
+        </children>
+        <children xsi:type="notation:BasicCompartment" xmi:id="_CBTd-q50EfCKarBJGpTXOA" type="Class_StructureCompartment_CN">
+          <styles xsi:type="notation:TitleStyle" xmi:id="_CBTd-650EfCKarBJGpTXOA"/>
+          <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTd_K50EfCKarBJGpTXOA"/>
+        </children>
+        <element href="src.compdef.uml#_CBS25K50EfCKarBJGpTXOA"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTd_a50EfCKarBJGpTXOA" x="194" y="80" width="101" height="81"/>
+      </children>
+      <children xsi:type="notation:Shape" xmi:id="_CBTd_q50EfCKarBJGpTXOA" type="StereotypeComment">
+        <styles xsi:type="notation:TitleStyle" xmi:id="_CBTd_650EfCKarBJGpTXOA"/>
+        <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeAK50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+          <eObjectValue href="src.compdef.uml#_CBS25K50EfCKarBJGpTXOA"/>
+        </styles>
+        <element xsi:nil="true"/>
+        <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeAa50EfCKarBJGpTXOA" x="394" y="80"/>
+      </children>
+      <styles xsi:type="notation:TitleStyle" xmi:id="_CBTeAq50EfCKarBJGpTXOA"/>
+      <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeA650EfCKarBJGpTXOA"/>
+    </children>
+    <element href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeBK50EfCKarBJGpTXOA" x="100" y="60" width="601" height="321"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_CBTeBa50EfCKarBJGpTXOA" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_CBTeBq50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeB650EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeCK50EfCKarBJGpTXOA" x="420" y="100"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_CBTeCa50EfCKarBJGpTXOA" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_CBTeCq50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeC650EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeDK50EfCKarBJGpTXOA" x="300" y="60"/>
+  </children>
+  <children xsi:type="notation:Shape" xmi:id="_CBTeDa50EfCKarBJGpTXOA" type="StereotypeComment">
+    <styles xsi:type="notation:TitleStyle" xmi:id="_CBTeDq50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeD650EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <layoutConstraint xsi:type="notation:Bounds" xmi:id="_CBTeEK50EfCKarBJGpTXOA" x="300" y="60"/>
+  </children>
+  <styles xsi:type="notation:StringValueStyle" xmi:id="_CBTeEa50EfCKarBJGpTXOA" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_CBTeEq50EfCKarBJGpTXOA"/>
+  <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_CBTeE650EfCKarBJGpTXOA" diagramKindId="org.eclipse.papyrus.robotics.diagram.component">
+    <owner href="src.compdef.uml#_CBS24K50EfCKarBJGpTXOA"/>
+  </styles>
+  <element href="src.compdef.uml#_CBS24K50EfCKarBJGpTXOA"/>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeFK50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd8a50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeFa50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeFq50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeF650EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeGK50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeGa50EfCKarBJGpTXOA"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeGq50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd8a50EfCKarBJGpTXOA" target="_CBTeBa50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeG650EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeHK50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeHa50EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeHq50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeH650EfCKarBJGpTXOA"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeIK50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd9q50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeIa50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeIq50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS25K50EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeI650EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeJK50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeJa50EfCKarBJGpTXOA"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeJq50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd8a50EfCKarBJGpTXOA" target="_CBTeCa50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeJ650EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeKK50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeKa50EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeKq50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeK650EfCKarBJGpTXOA"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeLK50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd8a50EfCKarBJGpTXOA" target="_CBTeDa50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeLa50EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeLq50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS24650EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeL650EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeMK50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeMa50EfCKarBJGpTXOA"/>
+  </edges>
+  <edges xsi:type="notation:Connector" xmi:id="_CBTeMq50EfCKarBJGpTXOA" type="StereotypeCommentLink" source="_CBTd9q50EfCKarBJGpTXOA" target="_CBTd_q50EfCKarBJGpTXOA">
+    <styles xsi:type="notation:FontStyle" xmi:id="_CBTeM650EfCKarBJGpTXOA"/>
+    <styles xsi:type="notation:EObjectValueStyle" xmi:id="_CBTeNK50EfCKarBJGpTXOA" name="BASE_ELEMENT">
+      <eObjectValue href="src.compdef.uml#_CBS25K50EfCKarBJGpTXOA"/>
+    </styles>
+    <element xsi:nil="true"/>
+    <bendpoints xsi:type="notation:RelativeBendpoints" xmi:id="_CBTeNa50EfCKarBJGpTXOA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+    <sourceAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeNq50EfCKarBJGpTXOA"/>
+    <targetAnchor xsi:type="notation:IdentityAnchor" xmi:id="_CBTeN650EfCKarBJGpTXOA"/>
+  </edges>
+</notation:Diagram>

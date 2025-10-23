@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nattable:Table xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:nattable="http://www.eclipse.org/papyrus/nattable/model" xmlns:nattableaxis="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxis" xmlns:nattableaxisconfiguration="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisconfiguration" xmlns:nattableaxisprovider="http://www.eclipse.org/papyrus/nattable/model/table/nattableaxisprovider" xmlns:nattableconfiguration="http://www.eclipse.org/papyrus/nattable/model/nattableconfiguration" xmlns:nattablestyle="http://www.eclipse.org/papyrus/nattable/model/table/nattablestyle" xmi:id="_XJoV8K9NEfCYOY8NCiiXqg" name="Properties" currentRowAxisProvider="_XJoV-a9NEfCYOY8NCiiXqg" currentColumnAxisProvider="_XJoV9K9NEfCYOY8NCiiXqg" tableKindId="PropertyTable">
+  <styles xmi:type="nattablestyle:TableDisplayStyle" xmi:id="_XJoV8a9NEfCYOY8NCiiXqg"/>
+  <styles xmi:type="nattablestyle:BooleanValueStyle" xmi:id="_XJoV8q9NEfCYOY8NCiiXqg" name="columnsWidthAsPercentage"/>
+  <styles xmi:type="nattablestyle:BooleanValueStyle" xmi:id="_XJoV869NEfCYOY8NCiiXqg" name="expandAll" booleanValue="true"/>
+  <tableConfiguration xmi:type="nattableconfiguration:TableConfiguration" href="platform:/plugin/org.eclipse.papyrus.robotics.assertions.tables/config/tables/properties.nattableconfiguration#_hviMUEkqEeil4MD2OcSjtg"/>
+  <columnAxisProvidersHistory xmi:type="nattableaxisprovider:SlaveObjectAxisProvider" xmi:id="_XJoV9K9NEfCYOY8NCiiXqg" description="Provides table default columns" name="Default Value Column Provider">
+    <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_XJoV9a9NEfCYOY8NCiiXqg" alias="Name">
+      <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.robotics.assertions.tables/config/tables/properties.nattableconfiguration#_hviMWkkqEeil4MD2OcSjtg"/>
+      <element xmi:type="ecore:EAttribute" href="http://www.eclipse.org/uml2/5.0.0/UML#//NamedElement/name"/>
+    </axis>
+    <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_XJoV9q9NEfCYOY8NCiiXqg" alias="Type">
+      <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.robotics.assertions.tables/config/tables/properties.nattableconfiguration#_hviMWkkqEeil4MD2OcSjtg"/>
+      <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//TypedElement/type"/>
+    </axis>
+    <axis xmi:type="nattableaxis:EStructuralFeatureAxis" xmi:id="_XJoV969NEfCYOY8NCiiXqg" alias="Expression">
+      <styles xmi:type="nattablestyle:IntValueStyle" xmi:id="_XJoV-K9NEfCYOY8NCiiXqg" name="axisWidth" intValue="250"/>
+      <manager xmi:type="nattableaxisconfiguration:AxisManagerRepresentation" href="platform:/plugin/org.eclipse.papyrus.robotics.assertions.tables/config/tables/properties.nattableconfiguration#_hviMWkkqEeil4MD2OcSjtg"/>
+      <element xmi:type="ecore:EReference" href="http://www.eclipse.org/uml2/5.0.0/UML#//Property/defaultValue"/>
+    </axis>
+  </columnAxisProvidersHistory>
+  <rowAxisProvidersHistory xmi:type="nattableaxisprovider:MasterObjectAxisProvider" xmi:id="_XJoV-a9NEfCYOY8NCiiXqg" description="The row provider stores the definition of default values" name="Default Value Row Provider" disconnectSlave="true"/>
+</nattable:Table>
